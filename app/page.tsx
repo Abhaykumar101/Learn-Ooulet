@@ -28,7 +28,7 @@ export default function Home() {
           <a href="https://play.google.com/store/apps/details?id=solutions.digitalumbrella.ooulet" target="_blank" className="text-[#df5452] font-medium underline"> Download the app now.</a>
           <span className="font-medium inline-flex justify-center items-center gap-2 md:px-2">An Initiative of <span className="bg-[#FF671F] px-1 text-white font-bold]">Make</span> <span className="font-bold px-1">In</span> <span className="font-bold text-white px-1 bg-[#046A38]">India</span></span>
           </p>
-          <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px] md:h-[400px]  h-[200px] px-2 md:px-0 py-4" src="https://www.youtube.com/embed/qF9AgWD46iU" title="How to Take your Business Online in just 60 sec"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+          <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px] md:h-[400px] w-full h-[200px] px-2 md:px-0 py-4" src="https://www.youtube.com/embed/qF9AgWD46iU" title="How to Take your Business Online in just 60 sec"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
       </div>
 
 
@@ -48,7 +48,7 @@ export default function Home() {
             <li>This <span className="font-semibold">Tutorial Video</span> will help you to <span className="font-semibold">Add Collection:</span></li>
           </ol>
           <div className="py-8">
-          <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px]  h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/sfSkboRf9pU" title="How to create Collection in Ooulet App"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></iframe>
+          <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px] w-full h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/sfSkboRf9pU" title="How to create Collection in Ooulet App"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></iframe>
           </div>
         </div>
       </div>
@@ -69,7 +69,7 @@ export default function Home() {
          <li>This <span className="font-semibold">Tutorial Video</span> will help you to <span className="font-semibold">Add your first Product:</span></li>
         </ol>
         <div className="py-8">
-        <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px]  h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/fHOswN1KsAk" title="How to upload first product in Ooulet App" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+        <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px]  w-full h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/fHOswN1KsAk" title="How to upload first product in Ooulet App" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
         </div>
       </div>
       
@@ -88,7 +88,7 @@ export default function Home() {
          <li>This <span className="font-semibold">Tutorial Video</span> will help you to <span className="font-semibold">Add your first Product:</span></li>
         </ol>
         <div className="py-8">
-        <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px]  h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/zCrcUs8nrqg" title="How to create Product Variation in Ooulet App" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+        <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px]  w-full h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/zCrcUs8nrqg" title="How to create Product Variation in Ooulet App" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
         </div>
       </div>
 
@@ -105,7 +105,7 @@ export default function Home() {
         <li>This <span className="font-semibold">Tutorial Video</span> will help you to <span className="font-semibold">Add Banners:</span></li>
         </ol>
         <div className="py-8">
-        <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px]  h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/t6ECmvHTbGQ" title="How to add a Banner in Ooulet App" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+        <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px]  w-full h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/t6ECmvHTbGQ" title="How to add a Banner in Ooulet App" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
         </div>
       </div>
 
@@ -120,7 +120,7 @@ export default function Home() {
         <li>This <span className="font-semibold">Tutorial Video</span> will help you to add <span className="font-semibold">Business Description:</span></li>
         </ol>
          <div className="py-8">
-         <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px]  h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/S25usHuSnBI" title="How to update business details in Ooulet App" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+         <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px]  w-full h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/S25usHuSnBI" title="How to update business details in Ooulet App" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
          </div>
       </div>
 
@@ -136,7 +136,7 @@ export default function Home() {
         <li>This <span className="font-semibold">Tutorial Video</span> will help you to <span className="font-semibold">Add Logo</span>:</li>
         </ol>
         <div className="py-8">
-        <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px]  h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/Fh3SyDRvbQ0" title="How to set Business/Brand Logo in Ooulet App" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+        <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px]  w-full h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/Fh3SyDRvbQ0" title="How to set Business/Brand Logo in Ooulet App" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
         </div>
       </div>
       
@@ -152,7 +152,7 @@ export default function Home() {
         <li>This <span className="font-semibold">Tutorial Video</span> will help you to <span className="font-semibold">Add COD Charges:</span></li>
         </ol>
         <div className="py-8">
-        <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px]  h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/LtlDdzfcMKo" title="How to set Taxes, Shipping Charges, COD Charges in Ooulet App" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+        <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px]  w-full h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/LtlDdzfcMKo" title="How to set Taxes, Shipping Charges, COD Charges in Ooulet App" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
         </div>
       </div>
 
@@ -172,7 +172,7 @@ export default function Home() {
          <li>This Tutorial Video will help you to <span className="font-semibold">Create Coupons:</span></li>
         </ol>
         <div className="py-8">
-        <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px]  h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/aFEQMC1bFgc" title="How to add a Coupon in Ooulet App" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+        <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px]  w-full h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/aFEQMC1bFgc" title="How to add a Coupon in Ooulet App" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
         </div>
       </div>
 
@@ -186,7 +186,7 @@ export default function Home() {
         <li>This <span className="font-semibold">Tutorial Video</span> will help you to <span className="font-semibold">Add Payment Methods:</span></li>     
         </ol>
         <div className="py-8">
-        <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px]  h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/9HlqWTTYeIQ" title="How to set Payment Methods in Ooulet App" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+        <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px]  w-full h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/9HlqWTTYeIQ" title="How to set Payment Methods in Ooulet App" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
         </div>
       </div>
 
@@ -200,7 +200,7 @@ export default function Home() {
        <li>This <span className="font-semibold">Tutorial Video</span> will help you to <span className="font-semibold">add Profile details:</span></li>
        </ol>
        <div className="py-8">
-       <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px]  h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/-nsh6w9LS4o" title="How to Update Profile in Ooulet App" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+       <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px]  w-full h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/-nsh6w9LS4o" title="How to Update Profile in Ooulet App" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
        </div>
       </div>
 
@@ -215,7 +215,7 @@ export default function Home() {
         <li>This <span className="font-semibold">Tutorial Video</span> will help you to <span className="font-semibold">Add Shipping Charges:</span></li>
         </ol>
         <div className="py-8">
-        <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px]  h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/LtlDdzfcMKo" title="How to set Taxes, Shipping Charges, COD Charges in Ooulet App" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+        <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px]  w-full h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/LtlDdzfcMKo" title="How to set Taxes, Shipping Charges, COD Charges in Ooulet App" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
         </div>
       </div>
 
@@ -229,7 +229,7 @@ export default function Home() {
         <li>This <span className="font-semibold">Tutorial Video</span> will help you to <span className="font-semibold">Add Social Links:</span></li>
         </ol>
         <div className="py-8">
-        <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px]  h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/S25usHuSnBI" title="How to update business details in Ooulet App" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+        <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px]  w-full h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/S25usHuSnBI" title="How to update business details in Ooulet App" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
         </div>
       </div>
 
@@ -242,7 +242,7 @@ export default function Home() {
         <li>Enter <span className="font-semibold">Business e-mail, Enter Phone Number, Enter Store Address.</span> Click on <span className="font-semibold">Save Button.</span></li>
         </ol>
         <div className="py-8">
-        <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px]  h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/S25usHuSnBI" title="How to update business details in Ooulet App" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+        <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px]  w-full h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/S25usHuSnBI" title="How to update business details in Ooulet App" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
         </div>
       </div>
 
