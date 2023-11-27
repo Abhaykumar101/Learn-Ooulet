@@ -10,7 +10,7 @@ export default function Home() {
       <div className="">
         <img src="/image/fast.jpg" alt="" />
       </div>
-      <div className="w-1/4 flex justify-center items-center xl:-mt-16 lg:-mt-12 md:-mt-8 -mt-5">
+      <div className="w-1/4 flex justify-center items-center xl:-mt-16 lg:-mt-12 md:-mt-8 -mt-4">
         <img src="/image/Frame.png" alt="" className="w-1/3 rounded-md"/>
       </div>
 
