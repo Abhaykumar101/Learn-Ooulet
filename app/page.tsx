@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import Image from "next/image"
 
 export default function Home() {
   return (
@@ -25,7 +25,7 @@ export default function Home() {
         <h2 className="lg:text-3xl md:text-base text-xs font-medium text-[#5e87c9] bg-[#e2f1fe]"><span>Create 🚀 blazing fast & Professional E-Commerce Store for your business using Ooulet.</span></h2>
         <p  className="lg:text-base md:text-sm text-xs">Manage your business completely through your phone without spending lakhs on technology and developers. 
           Our experienced <span className="font-bold">Marketing and Development</span> team will help you build your Business from Idea to 6-7 Figure Business.
-          <a href='https://play.google.com/store/apps/details?id=solutions.digitalumbrella.ooulet' target="_blank" className="text-[#df5452] font-medium underline"> Download the app now.</a>
+          <a href="https://play.google.com/store/apps/details?id=solutions.digitalumbrella.ooulet" target="_blank" className="text-[#df5452] font-medium underline"> Download the app now.</a>
           <span className="font-medium inline-flex justify-center items-center gap-2 px-2">An Initiative of <span className="bg-[#FF671F] px-1 text-white font-bold]">Make</span> <span className="font-bold px-1">In</span> <span className="font-bold text-white px-1 bg-[#046A38]">India</span></span>
           </p>
           <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px] md:h-[400px]  h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/qF9AgWD46iU" title="How to Take your Business Online in just 60 sec"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
@@ -76,11 +76,11 @@ export default function Home() {
 
       {/* section4 */}
       <div className="flex flex-col gap-4 py-4">
-        <h2 className="lg:text-2xl md:text-xl font-semibold">🎎 Step 4: <span className=" font-semibold text-[#5e87c9]"> Add Product's Variants</span></h2>
+        <h2 className="lg:text-2xl md:text-xl font-semibold">🎎 Step 4: <span className=" font-semibold text-[#5e87c9]"> Add Product&apos;s Variants</span></h2>
         <ol className="flex flex-col gap-2 px-8 lg:text-base md:text-sm text-xs list-decimal">
          <li>If your <span className="font-semibold">Product has Variants</span>, you can choose from <span className="font-semibold">Color, Size, Weight and Custom</span>.</li>
          <li>To add a <span className="font-semibold">Product with Variant</span> you need to follow the <span className="font-semibold">same process of adding any Product.</span></li>
-         <li>Once you'll reach Product Price page <span className="font-semibold">Tap on Add Variant.</span></li>
+         <li>Once you&apos;ll reach Product Price page <span className="font-semibold">Tap on Add Variant.</span></li>
          <li>Choose your <span className="font-semibold">Variant type (color, size, weight and custom)</span> add your <span className="font-semibold">Product with Variant Price.</span></li>
          <li>Tap on <span className="font-semibold">Add Variant to add another Variant</span> and then <span className="font-semibold">Tap on Save.</span></li>
          <li>If you wish, you can <span className="font-semibold">Rearrange your Variant</span> by <span className="font-semibold">using Slide Bar</span> on <span className="font-semibold">Right side of your Variant.</span></li>
