@@ -22,13 +22,13 @@ export default function Home() {
         <hr />
       </div>
       <div className="flex flex-col lg:gap-8 md:gap-6 gap-4 lg:py-4">
-        <h2 className="lg:text-3xl text-base font-medium text-[#5e87c9] bg-[#e2f1fe]"><span>Create 🚀 blazing fast & Professional E-Commerce Store for your business using Ooulet.</span></h2>
-        <p  className="text-base ">Manage your business completely through your phone without spending lakhs on technology and developers. 
+        <h2 className="lg:text-3xl text-xl text-center px-2 py-1 font-medium text-[#5e87c9] bg-[#e2f1fe]"><span>Create 🚀 blazing fast & Professional E-Commerce Store for your business using Ooulet.</span></h2>
+        <p  className="text-lg">Manage your business completely through your phone without spending lakhs on technology and developers. 
           Our experienced <span className="font-bold">Marketing and Development</span> team will help you build your Business from Idea to 6-7 Figure Business.
           <a href="https://play.google.com/store/apps/details?id=solutions.digitalumbrella.ooulet" target="_blank" className="text-[#df5452] font-medium underline"> Download the app now.</a>
-          <span className="font-medium inline-flex justify-center items-center gap-2 px-2">An Initiative of <span className="bg-[#FF671F] px-1 text-white font-bold]">Make</span> <span className="font-bold px-1">In</span> <span className="font-bold text-white px-1 bg-[#046A38]">India</span></span>
+          <span className="font-medium inline-flex justify-center items-center gap-2 md:px-2">An Initiative of <span className="bg-[#FF671F] px-1 text-white font-bold]">Make</span> <span className="font-bold px-1">In</span> <span className="font-bold text-white px-1 bg-[#046A38]">India</span></span>
           </p>
-          <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px] md:h-[400px]  h-[200px] px-2 md:px-0" src="https://www.youtube.com/embed/qF9AgWD46iU" title="How to Take your Business Online in just 60 sec"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+          <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px] md:h-[400px]  h-[200px] px-2 md:px-0 py-4" src="https://www.youtube.com/embed/qF9AgWD46iU" title="How to Take your Business Online in just 60 sec"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
       </div>
 
 
