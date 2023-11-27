@@ -326,8 +326,13 @@ export default function Home() {
           </tr>
 
           <tr>
-            <td></td>
-            <td><a href="" target="_blank" className="text-[#5e87c9]"></a></td>
+            <td>Supermart</td>
+            <td><a href="https://supermart.ooulet.com/" target="_blank" className="text-[#5e87c9]">https://supermart.ooulet.com/</a></td>
+          </tr>
+
+          <tr>
+            <td>jewellery</td>
+            <td><a href="https://cosmiccrystals.ooulet.com/" target="_blank" className="text-[#5e87c9]">https://cosmiccrystals.ooulet.com/</a></td>
           </tr>
           </tbody>
         </table>
@@ -337,7 +342,7 @@ export default function Home() {
       {/* footer */}
       <div className="flex flex-col gap-8 md:py-24 py-10">
         <img src="/image/ok.png" alt="" />
-        <h2 className="lg:text-2xl md:text-lg px-2 font-semibold text-white bg-[#5c3b23] py-2">We understand that every business is unique and we&apos;re <span className="bg-[white]"><span className="bg-[#FF671F] px-1 text-white font-bold]">Vocal</span> <span className="font-bold text-black bg-[white] px-1">for</span> <span className="font-bold text-white px-1 bg-[#046A38]">Local</span></span>📍</h2>
+        <h2 className="lg:text-2xl md:text-lg px-2 font-semibold text-white bg-[#5c3b23] py-2">We understand that every business is unique and we&apos;re <span className="bg-[white]"><span className="bg-[#FF671F] px-1 text-white font-bold]">Vocal</span> <span className="font-bold text-black bg-[white] px-1">for</span> <span className="font-bold text-white px-1 bg-[#046A38]">Local</span></span></h2>
         <p className="font-semibold lg:text-base text-sm lg:px-0 px-2">Schedule a call with our team to know how Ooulet can help you grow digitally and scale to millions of users without any hassle.</p>
         <div className="flex flex-col md:gap-6 gap-4 pb-12 md:pb-0">
           <p className="lg:text-3xl md:text-2xl text-xl font-semibold text-[#5e87c9]">🗣️ <a href="https://api.whatsapp.com/send?phone=918142250323&text=I%27m%20interested%20in%20Ooulet.%20I%20want%20to%20know%20more." target="_blank" className="underline">Contact Us</a></p>
