@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 4px;
+  }
+  
+
+  @media screen and (min-width: 600px){
+    td, th {
+      padding: 8px;
+    }
+  }
+
+  @media screen and (min-width: 300px){
+    iframe{
+      width:300px;
+     
+    }
+  }
+
+  @media screen and (min-width: 400px){
+    iframe{
+      width: 390px;
+    }
+  }
+
+ 
