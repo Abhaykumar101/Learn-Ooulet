@@ -18,12 +18,12 @@ export default function Home() {
       <div className="flex flex-col justify-center items-center">
       <div className="xl:w-[1300px] lg:w-[924px] md:w-[700px] md:mx-auto mx-4">
         <div className="flex flex-col gap-2 py-4">
-        <h2 className="text-[#37352f] lg:text-[40px] md:text-3xl text-xl font-bold">Start Your Online Business with Ooulet</h2>
+        <h2 className="text-[#37352f] lg:text-[40px] md:text-3xl text-xl font-bold">Start Your Online Business with <span className="text-[#EC0B43]">Ooulet</span></h2>
         <hr />
       </div>
       <div className="flex flex-col lg:gap-8 md:gap-6 gap-4 lg:py-4">
-        <h2 className="lg:text-3xl text-xl text-center px-2 py-1 font-medium text-[#5e87c9] bg-[#e2f1fe]"><span>Create 🚀 blazing fast & Professional E-Commerce Store for your business using Ooulet.</span></h2>
-        <p  className="text-lg">Manage your business completely through your phone without spending lakhs on technology and developers. 
+        <h2 className="lg:text-3xl md:text-xl text-lg text-center px-2 py-1 font-medium text-[#5e87c9] bg-[#e2f1fe]"><span>Create 🚀 blazing fast & Professional E-Commerce Store for your business using Ooulet.</span></h2>
+        <p  className="md:text-lg text-base">Manage your business completely through your phone without spending lakhs on technology and developers. 
           Our experienced <span className="font-bold">Marketing and Development</span> team will help you build your Business from Idea to 6-7 Figure Business.
           <a href="https://play.google.com/store/apps/details?id=solutions.digitalumbrella.ooulet" target="_blank" className="text-[#df5452] font-medium underline"> Download the app now.</a>
           <span className="font-medium inline-flex justify-center items-center gap-2 md:px-2">An Initiative of <span className="bg-[#FF671F] px-1 text-white font-bold]">Make</span> <span className="font-bold px-1">In</span> <span className="font-bold text-white px-1 bg-[#046A38]">India</span></span>
