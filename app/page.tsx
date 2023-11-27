@@ -38,7 +38,7 @@ export default function Home() {
         <p className="lg:text-3xl md:text-2xl font-semibold">📱STEP 1: <a href="" className="lg:text-3xl md:text-2xl font-bold text-[#5e87c9] underline">Download App</a></p>
         <div className="flex flex-col gap-2">
         <h2 className="lg:text-2xl md:text-xl font-semibold">🛍️ Step 2: <span className="font-semibold text-[#5e87c9]">Add Collections</span></h2>
-          <ol className="lg:text-base md:text-sm text-xs list-decimal px-8 flex flex-col gap-2">
+          <ol className="lg:text-base text-sm list-decimal px-8 flex flex-col gap-2">
             <li>To add any Collection Click on + <span className="font-semibold">Sign in Main Menu (Bottom of Ooulet App)</span>.</li>
             <li>Select <span className="font-semibold">Add Collection.</span></li>
             <li>Add <span className="font-semibold">Collection Image.</span></li>
@@ -56,7 +56,7 @@ export default function Home() {
       {/* section3 */}
       <div className="flex flex-col gap-4 py-4">
         <h2 className="lg:text-2xl md:text-xl font-semibold">🎁 Step 3: <span className="font-semibold text-[#5e87c9]">Add Products</span></h2>
-        <ol className="lg:text-base md:text-sm text-xs list-decimal px-8 flex flex-col gap-2">
+        <ol className="lg:text-base text-sm list-decimal px-8 flex flex-col gap-2">
          <li>To add any Product <span className="font-semibold">Click on + sign in Main Menu (Bottom of Ooulet App).</span></li>
          <li>Select <span className="font-semibold">Add Product.</span></li>
          <li>Enter <span className="font-semibold">Product name.</span></li>
@@ -77,7 +77,7 @@ export default function Home() {
       {/* section4 */}
       <div className="flex flex-col gap-4 py-4">
         <h2 className="lg:text-2xl md:text-xl font-semibold">🎎 Step 4: <span className=" font-semibold text-[#5e87c9]"> Add Product&apos;s Variants</span></h2>
-        <ol className="flex flex-col gap-2 px-8 lg:text-base md:text-sm text-xs list-decimal">
+        <ol className="flex flex-col gap-2 px-8 lg:text-base text-sm list-decimal">
          <li>If your <span className="font-semibold">Product has Variants</span>, you can choose from <span className="font-semibold">Color, Size, Weight and Custom</span>.</li>
          <li>To add a <span className="font-semibold">Product with Variant</span> you need to follow the <span className="font-semibold">same process of adding any Product.</span></li>
          <li>Once you&apos;ll reach Product Price page <span className="font-semibold">Tap on Add Variant.</span></li>
@@ -96,7 +96,7 @@ export default function Home() {
       {/* section5 */}
       <div className="flex flex-col gap-4 py-4">
         <h2 className="lg:text-2xl md:text-xl font-semibold">🚩Step 5: <span className=" font-semibold text-[#5e87c9]">Banners</span></h2>
-        <ol className="lg:text-base md:text-sm text-xs list-decimal gap-2 px-8 flex flex-col">
+        <ol className="lg:text-base text-sm list-decimal gap-2 px-8 flex flex-col">
         <li>To <span className="font-semibold">Add Promotional Banners</span> click on <span className="font-semibold">Banners icon</span> in <span className="font-semibold">Manage Business Section.</span></li>
         <li>Click on <span className="font-semibold">Add New Banner</span> (plus sign)</li>
         <li>Select show on option <span className="font-semibold">(Desktop & Mobile, Desktop only, Mobile only).</span></li>
@@ -113,7 +113,7 @@ export default function Home() {
       {/* section6 */}
       <div className="flex flex-col gap-4 py-4">
         <h2 className="lg:text-2xl md:text-xl font-semibold">📝 Step 6: <span className=" font-semibold text-[#5e87c9]">Business Description</span></h2>
-        <ol className="lg:text-base md:text-sm text-xs list-decimal gap-2 px-8 flex flex-col">
+        <ol className="lg:text-base text-sm list-decimal gap-2 px-8 flex flex-col">
         <li>You can set <span className="font-semibold">Business Description</span> by using <span className="font-semibold">Manage Business section.</span></li>
         <li><span className="font-semibold">Manage Business</span> &gt;<span className="font-semibold"> Settings</span> &gt;<span className="font-semibold"> Update Business Description.</span></li>
         <li>Describe your Business. Click on<span className="font-semibold"> Save Button.</span></li>
@@ -128,7 +128,7 @@ export default function Home() {
       {/* section7 */}
       <div className="flex flex-col gap-4 py-4">
         <h2 className="lg:text-2xl md:text-xl font-semibold">💞 Step 7:<span className=" font-semibold text-[#5e87c9]"> Business Logo</span></h2>
-        <ol className="lg:text-base md:text-sm text-xs list-decimal gap-2 px-8 flex flex-col">
+        <ol className="lg:text-base text-sm list-decimal gap-2 px-8 flex flex-col">
         <li>You can set <span className="font-semibold">Business Logo</span> by using <span className="font-semibold">Manage Business section.</span></li>
         <li><span className="font-semibold">Go to setting</span> &gt;<span className="font-semibold"> Business Logo.</span></li>
         <li>Click on <span className="font-semibold">Add.</span></li>
@@ -144,7 +144,7 @@ export default function Home() {
       {/* section8 */}
       <div className="flex flex-col gap-4 py-4">
         <h2 className="lg:text-2xl md:text-xl font-semibold">💸 Step 8: <span className=" font-semibold text-[#5e87c9]">Cash on Delivery Charges</span></h2>
-        <ol className="lg:text-base md:text-sm text-xs list-decimal gap-2 px-8 flex flex-col">
+        <ol className="lg:text-base text-sm list-decimal gap-2 px-8 flex flex-col">
         <li>You can <span className="font-semibold">Set COD Charges</span> by using <span className="font-semibold">Manage Business Section.</span></li>
         <li><span className="font-semibold">Manage Business</span> &gt;<span className="font-semibold"> Settings</span> &gt; <span className="font-semibold">E-Commerce Settings</span> &gt; <span className="font-semibold">COD Charges.</span></li>
         <li>Enter <span className="font-semibold">COD Charges</span>. Click on <span className="font-semibold">Save Button.</span></li>
@@ -159,7 +159,7 @@ export default function Home() {
       {/* section9 */}
       <div className="flex flex-col gap-4 py-4">
         <h2 className="lg:text-2xl md:text-xl font-semibold">🎟️ Step 9:<span className=" font-semibold text-[#5e87c9]"> Coupons</span></h2>
-        <ol className="lg:text-base md:text-sm text-xs list-decimal gap-2 px-8 flex flex-col">
+        <ol className="lg:text-base text-sm list-decimal gap-2 px-8 flex flex-col">
          <li>To <span className="font-semibold">Add Coupons</span> click on <span className="font-semibold">Coupon icon</span> in <span className="font-semibold">Manage Business Section.</span></li>
          <li>Click on <span className="font-semibold">Create Coupon.</span></li>
          <li><span className="font-semibold">Enter Coupon code</span> &gt; <span className="font-semibold">Enter amount</span> &gt; <span className="font-semibold">Click on Create coupon.</span></li>
@@ -179,7 +179,7 @@ export default function Home() {
       {/* section10 */}
       <div className="flex flex-col gap-4 py-4">
         <h2 className="lg:text-2xl md:text-xl font-semibold">💳 Step 10: <span className=" font-semibold text-[#5e87c9]">Payment Methods</span></h2>
-        <ol className="lg:text-base md:text-sm text-xs list-decimal gap-2 px-8 flex flex-col">
+        <ol className="lg:text-base text-sm list-decimal gap-2 px-8 flex flex-col">
         <li>You can set <span className="font-semibold">Payment Method</span> by using <span className="font-semibold">Manage Business Section.</span></li>
         <li><span className="font-semibold">Manage Business</span> &get; <span className="font-semibold">Settings</span> &get; <span className="font-semibold">E-Commerce Settings</span> &get; <span className="font-semibold">Payment Method.</span></li>
         <li>You can <span className="font-semibold">Enable/Disable Payment Methods (COD, UPI, Debit/Credit card)</span> by <span className="font-semibold">Clicking on check boxes and Click on Save Button.</span></li>
@@ -193,7 +193,7 @@ export default function Home() {
       {/* sectioin11 */}
       <div className="flex flex-col gap-4 py-4">
        <h2 className="lg:text-2xl md:text-xl font-semibold">👤 Step 11: <span className=" font-semibold text-[#5e87c9]">Profile</span></h2>
-       <ol className="lg:text-base md:text-sm text-xs list-decimal gap-2 px-8 flex flex-col">
+       <ol className="lg:text-base text-sm list-decimal gap-2 px-8 flex flex-col">
        <li>You can <span className="font-semibold">Setup Profile</span> by <span className="font-semibold">using Profile</span> Icon in main <span className="font-semibold">Menu</span>.</li>
        <li><span className="font-semibold">Profile</span> &gt; <span className="font-semibold">Name</span> &gt; <span className="font-semibold">e-mail</span> &gt; <span className="font-semibold">Phone no.</span> &gt; <span className="font-semibold">Address.</span></li>
        <li><span className="font-semibold">Note: This isn&apos;t Store&apos;s Profile.</span></li>
@@ -207,7 +207,7 @@ export default function Home() {
       {/* section12 */}
       <div className="flex flex-col gap-4 py-4">
         <h2 className="lg:text-2xl md:text-xl font-semibold">🚛 Step 12:<span className=" font-semibold text-[#5e87c9]"> Shipping Charges</span></h2>
-        <ol className="lg:text-base md:text-sm text-xs list-decimal gap-2 px-8 flex flex-col">
+        <ol className="lg:text-base text-sm list-decimal gap-2 px-8 flex flex-col">
         <li>You can <span className="font-semibold">Set Shipping Charges</span> by using <span className="font-semibold">Manage Business Section.</span></li>
         <li><span className="font-semibold">Manage Business</span> &gt; <span className="font-semibold">Settings</span> &gt; <span className="font-semibold">E-Commerce Settings</span> &gt; <span className="font-semibold">Shipping Charges.</span></li>
         <li>Enter <span className="font-semibold">Shipping charges.</span> Click on <span className="font-semibold">Save Button.</span></li>
@@ -221,7 +221,7 @@ export default function Home() {
 
       <div className="flex flex-col gap-4 py-4">
         <h2 className="lg:text-2xl md:text-xl font-semibold">👥 Step 13:<span className=" font-semibold text-[#5e87c9]"> Social Links</span></h2>
-        <ol className="lg:text-base md:text-sm text-xs list-decimal gap-2 px-8 flex flex-col">
+        <ol className="lg:text-base text-sm list-decimal gap-2 px-8 flex flex-col">
         <li>You can <span className="font-semibold">Add Social Links (Instagram, Facebook, Twitter, WhatsApp and YouTube) to  store.</span></li>
         <li>You can <span className="font-semibold">Add Social Links</span> by using <span className="font-semibold">Manage Business Section.</span></li>
         <li><span className="font-semibold">Manage Business</span> &gt; <span className="font-semibold">Settings</span> &gt; <span className="font-semibold">Social Links.</span></li>
@@ -236,7 +236,7 @@ export default function Home() {
       {/* section14 */}
       <div className="flex flex-col gap-4 py-4">
         <h2 className="lg:text-2xl md:text-xl font-semibold">👨‍👩‍👧‍👦 Step 14:<span className=" font-semibold text-[#5e87c9]"> Store Contact Details</span></h2>
-        <ol className="lg:text-base md:text-sm text-xs list-decimal gap-2 px-8 flex flex-col">
+        <ol className="lg:text-base text-sm list-decimal gap-2 px-8 flex flex-col">
         <li>You can <span className="font-semibold">Add Store Contact</span> details by using <span className="font-semibold">Manage Business Section.</span></li>
         <li><span className="font-semibold">Manage Business</span> &gt; <span className="font-semibold">Settings</span> &gt; <span className="font-semibold">Contact Details.</span></li>
         <li>Enter <span className="font-semibold">Business e-mail, Enter Phone Number, Enter Store Address.</span> Click on <span className="font-semibold">Save Button.</span></li>
@@ -333,7 +333,7 @@ export default function Home() {
       <div className="flex flex-col gap-8 md:py-24 py-10">
         <img src="/image/ok.png" alt="" />
         <h2 className="lg:text-2xl md:text-lg px-2 font-semibold text-white bg-[#5c3b23] py-2">We understand that every business is unique and we&apos;re <span className="bg-[white]"><span className="bg-[#FF671F] px-1 text-white font-bold]">Vocal</span> <span className="font-bold text-black bg-[white] px-1">for</span> <span className="font-bold text-white px-1 bg-[#046A38]">Local</span></span>📍</h2>
-        <p className="font-semibold lg:text-base md:text-sm text-xs lg:px-0 px-2">Schedule a call with our team to know how Ooulet can help you grow digitally and scale to millions of users without any hassle.</p>
+        <p className="font-semibold lg:text-base text-sm lg:px-0 px-2">Schedule a call with our team to know how Ooulet can help you grow digitally and scale to millions of users without any hassle.</p>
         <div className="flex flex-col md:gap-6 gap-4 pb-12 md:pb-0">
           <p className="lg:text-3xl md:text-2xl text-xl font-semibold text-[#5e87c9]">🗣️ <a href="https://api.whatsapp.com/send?phone=918142250323&text=I%27m%20interested%20in%20Ooulet.%20I%20want%20to%20know%20more." target="_blank" className="underline">Contact Us</a></p>
           <p className="lg:text-3xl md:text-2xl text-xl font-semibold text-[#529e72]">🚀 <a href="https://api.whatsapp.com/send?phone=918142250323&text=I%27m%20interested%20in%20Ooulet.%20I%20want%20to%20know%20more." target="_blank" className="underline">Click to WhatsApp Our Team</a></p>
