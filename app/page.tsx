@@ -34,7 +34,7 @@ export default function Home() {
 
       {/* section2 */}
       <div className="flex flex-col md:gap-8 gap-4 py-8">
-        <h2 className="lg:text-3xl md:text-xl text-base px-1 font-medium text-white bg-[#564328] py-2">This Guide will teach you how you can setup your own E-Commerce Store without relying on any developer, just using your phone.</h2>
+        <h2 className="lg:text-3xl md:text-xl text-base px-2 font-medium text-white bg-[#564328] py-2">This Guide will teach you how you can setup your own E-Commerce Store without relying on any developer, just using your phone.</h2>
         <p className="lg:text-3xl md:text-2xl font-semibold">📱STEP 1: <a href="" className="lg:text-3xl md:text-2xl font-bold text-[#5e87c9] underline">Download App</a></p>
         <div className="flex flex-col gap-2">
         <h2 className="lg:text-2xl md:text-xl font-semibold">🛍️ Step 2: <span className="font-semibold text-[#5e87c9]">Add Collections</span></h2>
@@ -323,6 +323,11 @@ export default function Home() {
           <tr>
             <td>Bakery</td>
             <td><a href="https://momsbakery.ooulet.com/" target="_blank" className="text-[#5e87c9]">https://momsbakery.ooulet.com/</a></td>
+          </tr>
+
+          <tr>
+            <td></td>
+            <td><a href="" target="_blank" className="text-[#5e87c9]"></a></td>
           </tr>
           </tbody>
         </table>
