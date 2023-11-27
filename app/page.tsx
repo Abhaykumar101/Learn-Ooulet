@@ -25,7 +25,7 @@ export default function Home() {
         <h2 className="lg:text-3xl md:text-xl text-lg text-center px-2 py-1 font-medium text-[#5e87c9] bg-[#e2f1fe]"><span>Create 🚀 blazing fast & Professional E-Commerce Store for your business using Ooulet.</span></h2>
         <p  className="md:text-lg text-sm">Manage your business completely through your phone without spending lakhs on technology and developers. 
           Our experienced <span className="font-bold">Marketing and Development</span> team will help you build your Business from Idea to 6-7 Figure Business.
-          <a href="https://play.google.com/store/apps/details?id=solutions.digitalumbrella.ooulet" target="_blank" className="text-[#df5452] font-medium underline"> Download the app now.</a>
+          <a href="https://play.google.com/store/apps/details?id=solutions.digitalumbrella.ooulet" target="_blank" className="text-[#df5452] font-medium underline"> Download the App now.</a>
           <span className="font-medium inline-flex justify-center items-center gap-2 md:px-2">An Initiative of <span className="bg-[#FF671F] px-1 text-white font-bold]">Make</span> <span className="font-bold px-1">In</span> <span className="font-bold text-white px-1 bg-[#046A38]">India</span></span>
           </p>
           <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px] md:h-[400px] w-full h-[200px] px-2 md:px-0 py-4" src="https://www.youtube.com/embed/qF9AgWD46iU" title="How to Take your Business Online in just 60 sec"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
@@ -257,7 +257,7 @@ export default function Home() {
         </div>
 
         <div className="flex flex-col gap-4 py-8">
-        <h2 className="lg:text-4xl md:text-3xl text-2xl font-semibold text-[#df5452]">Checkout Our Featured Stores</h2>
+        <h2 className="lg:text-4xl md:text-3xl text-2xl font-semibold text-[#df5452]">Checkout Our Featured <span className="sm:text-[#df5452] text-[#5e87c9]">Stores</span></h2>
         <table className="lg:w-1/2 md:w-3/4 w-10 lg:text-base md:text-sm text-xs">
           <thead>
           <tr>
@@ -326,12 +326,12 @@ export default function Home() {
           </tr>
 
           <tr>
-            <td>Supermart</td>
+            <td>Grocery</td>
             <td><a href="https://supermart.ooulet.com/" target="_blank" className="text-[#5e87c9]">https://supermart.ooulet.com/</a></td>
           </tr>
 
           <tr>
-            <td>jewellery</td>
+            <td>Jewellery</td>
             <td><a href="https://cosmiccrystals.ooulet.com/" target="_blank" className="text-[#5e87c9]">https://cosmiccrystals.ooulet.com/</a></td>
           </tr>
           </tbody>
