@@ -342,12 +342,12 @@ export default function Home() {
 
           <tr>
             <td>Fashioin</td>
-            <td>https://influence.ooulet.com/<a href="" target="_blank" className="text-[#5e87c9]">https://influence.ooulet.com/</a></td>
+            <td><a href="https://influence.ooulet.com/" target="_blank" className="text-[#5e87c9]">https://influence.ooulet.com/</a></td>
           </tr>
 
           <tr>
             <td>Woman Fashion</td>
-            <td>https://anamikafashion.ooulet.com/<a href="" target="_blank" className="text-[#5e87c9]">https://anamikafashion.ooulet.com/</a></td>
+            <td><a href="https://anamikafashion.ooulet.com/" target="_blank" className="text-[#5e87c9]">https://anamikafashion.ooulet.com/</a></td>
           </tr>
 
           </tbody>
