@@ -340,6 +340,16 @@ export default function Home() {
             <td><a href="https://shreesidhbalisweets.ooulet.com/" target="_blank" className="text-[#5e87c9]">https://shreesidhbalisweets.ooulet.com/</a></td>
           </tr>
 
+          <tr>
+            <td>Fashioin</td>
+            <td>https://influence.ooulet.com/<a href="" target="_blank" className="text-[#5e87c9]">https://influence.ooulet.com/</a></td>
+          </tr>
+
+          <tr>
+            <td>Woman Fashion</td>
+            <td>https://anamikafashion.ooulet.com/<a href="" target="_blank" className="text-[#5e87c9]">https://anamikafashion.ooulet.com/</a></td>
+          </tr>
+
           </tbody>
         </table>
         </div>
