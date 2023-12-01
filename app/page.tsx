@@ -28,7 +28,7 @@ export default function Home() {
           <a href="https://play.google.com/store/apps/details?id=solutions.digitalumbrella.ooulet" target="_blank" className="text-[#df5452] font-medium underline"> Download the App now.</a>
           <span className="font-medium inline-flex justify-center items-center gap-2 md:px-2">An Initiative of <span className="bg-[#FF671F] px-1 text-white font-bold]">Make</span> <span className="font-bold px-1">In</span> <span className="font-bold text-white px-1 bg-[#046A38]">India</span></span>
           </p>
-          <iframe className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px] md:h-[400px] w-full h-[200px] px-2 md:px-0 py-4" src="https://www.youtube.com/embed/qF9AgWD46iU" title="How to Take your Business Online in just 60 sec"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+          <a href="https://youtu.be/qF9AgWD46iU" target="_blank" className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px] w-full h-[200px] px-2 md:px-0"><img src="/image/src0.png" alt="" /></a>
       </div>
 
 
@@ -247,7 +247,7 @@ export default function Home() {
       </div>
 
       <div className="">
-        <div className="flex flex-col lg:gap-6 gap-4 py-4">
+        <div className="flex flex-col lg:gap-6 gap-4 py-4 w-full">
         <h2 className="lg:text-3xl md:text-xl text-base font-semibold bg-[#feeee4] md:py-4 py-2 lg:leading-9 px-2">
         🎉 <span className="text-[#c77d48]">Congratulations, your E-Commerce store is Ready!</span> 
         🎉 There is so much more we can do for your business.  
