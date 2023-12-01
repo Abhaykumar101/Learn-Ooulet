@@ -26,7 +26,7 @@ export default function Home() {
         <p  className="md:text-lg text-sm sm:leading-8 leading-6">Manage your business completely through your phone without spending lakhs on technology and developers. 
           Our experienced <span className="font-bold">Marketing and Development</span> team will help you build your Business from Idea to 6-7 Figure Business.
           <a href="https://play.google.com/store/apps/details?id=solutions.digitalumbrella.ooulet" target="_blank" className="text-[#df5452] font-medium underline"> Download the App now.</a>
-          <span className="font-medium inline-flex justify-center items-center gap-2 md:px-2">An Initiative of <span className="bg-[#FF671F] px-1 text-white font-bold]">Make</span> <span className="font-bold px-1">In</span> <span className="font-bold text-white px-1 bg-[#046A38]">India</span></span>
+          <span className="font-medium inline-flex justify-center items-center gap-2 md:px-2">An Initiative of <span className="bg-[#FF671F] px-1 text-white font-bold">Make</span> <span className="font-bold px-1">In</span> <span className="font-bold text-white px-1 bg-[#046A38]">India</span></span>
           </p>
           <a href="https://youtu.be/qF9AgWD46iU" target="_blank" className="xl:w-[1300px] xl:h-[746px] lg:w-[924px] lg:h-[550px] md:w-[700px] w-full h-[200px] px-2 md:px-0"><img src="/image/src0.png" alt="" /></a>
       </div>
