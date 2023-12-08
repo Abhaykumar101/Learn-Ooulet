@@ -18,7 +18,7 @@ export default function Home() {
       <div className="flex flex-col justify-center items-center">
       <div className="xl:w-[1300px] lg:w-[924px] md:w-[700px] md:mx-auto mx-4">
         <div className="flex flex-col gap-2 py-4">
-        <h2 className="text-[#37352f] lg:text-[40px] md:text-3xl text-xl font-bold">Start Your Online Business with <span className="text-[#EC0B43]">Ooulet</span></h2>
+        <h2 className="text-[#37352f] lg:text-[40px] md:text-3xl text-xl font-bold ">Start Your Online Business with <span className="text-[#EC0B43]">Ooulet</span></h2>
         <hr />
       </div>
       <div className="flex flex-col lg:gap-8 md:gap-6 gap-4 lg:py-4">
