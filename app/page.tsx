@@ -4,8 +4,6 @@ export default function Home() {
   return (
     <>
     
-    {/* navbar */}
-
       {/* sectioin1 */}
       <div className="">
         <img src="/image/fast.jpg" alt="" />
@@ -35,7 +33,7 @@ export default function Home() {
       {/* section2 */}
       <div className="flex flex-col md:gap-8 gap-4 py-8">
         <h2 className="lg:text-3xl md:text-xl text-base px-2 font-medium bg-[#ffeed7] py-2">This Guide will teach you how you can setup your own E-Commerce Store without relying on any developer, just using your phone.</h2>
-        <p className="lg:text-3xl md:text-2xl font-semibold">📱STEP 1: <a href="" className="lg:text-3xl md:text-2xl font-bold text-[#5e87c9] underline">Download App</a></p>
+        <p className="lg:text-3xl md:text-2xl font-semibold">📱STEP 1: <a href="https://play.google.com/store/apps/details?id=solutions.digitalumbrella.ooulet" target="_blank" className="lg:text-3xl md:text-2xl font-bold text-[#5e87c9] underline">Download App</a></p>
         <div className="flex flex-col gap-2">
         <h2 className="lg:text-2xl md:text-xl font-semibold">🛍️ Step 2: <span className="font-semibold text-[#5e87c9]">Add Collections</span></h2>
           <ol className="lg:text-base text-sm list-decimal px-8 flex flex-col gap-2">
@@ -355,8 +353,6 @@ export default function Home() {
         </div>
       </div>
 
-    
-    
       <div className="flex flex-col gap-8 md:py-24 py-10">
         <img src="/image/ok.png" alt="" />
         <h2 className="lg:text-2xl md:text-lg px-2 font-semibold bg-[#fef4ee] py-2">We understand that every business is unique and we&apos;re <span className="bg-[white]"><span className="bg-[#FF671F] px-1 text-white font-bold]">Vocal</span> <span className="font-bold text-black bg-[white] px-1">for</span> <span className="font-bold text-white px-1 bg-[#046A38]">Local</span></span></h2>
